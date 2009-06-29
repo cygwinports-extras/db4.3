@@ -1,5 +1,5 @@
 category: Database
-requires: cygwin libdb4.3
+requires: libdb4.3
 external-source: db4.3
 sdesc: "Berkeley DB 4.3 (development)"
 ldesc: "Oracle Berkeley DB is the industry-leading open source, embeddable
